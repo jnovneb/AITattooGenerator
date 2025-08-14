@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+Pillow
+requests
+sqlite3-binary
